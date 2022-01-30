@@ -2,4 +2,4 @@
 Project from Scrimba
 
 
-![](screenshot/react-app.gif)
+![](screenshot/game.gif)
